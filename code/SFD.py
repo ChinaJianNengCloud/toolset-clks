@@ -95,5 +95,5 @@ if __name__ == '__main__':
     print(f.list_remain_suffix(file, '.txt', '.pdf', ('.png', '.ipynb')))
     print(f.list_exclude_suffix(file, '.txt', '.pdf', ['.txt']))
     print(f.collect_suffixes('tex'))
-    print(f.get_filenames(r"D:\科研\浙大课题\20240119reduce background\tumor", recursive=True, only_filenames=True, min_size=1, max_size=3*1024)
+    print(f.get_filenames(r"directory", recursive=True, only_filenames=True, min_size=1, max_size=3*1024)
 )
