@@ -23,7 +23,7 @@
 </div>
 
 # 工具包介绍
-## SFF.py 文件后缀名处理
-  - [文档说明](docs/SFF_api.md)
+## SFD.py 文件后缀名处理
+  - [文档说明](docs/SFD_api.md)
   - [代码文件](code/SFD.py)
 
