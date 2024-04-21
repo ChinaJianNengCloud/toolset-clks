@@ -3,7 +3,7 @@
 <div align="center">
 
   <p align="center">
-    <h3>有用的没用的，我们要复用的</h3>
+    <h3>没用的有用的，我们要复用的</h3>
       <a href="https://github.com/chenyuzhe97/toolset-clks/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/chenyuzhe97/toolset-clks" />
       </a>
