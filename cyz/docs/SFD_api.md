@@ -32,6 +32,10 @@
   files = get_filenames(directory_path, recursive=True, only_filenames=True, min_size=1, max_size=1024)
   print(files)
 
+- **补充说明**：
+- 想要手搓文件遍历轮子可参考练习：[590. N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/description/)
+
+
 
 
 ### collect_suffixes(*suffixes)
