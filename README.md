@@ -24,6 +24,6 @@
 
 # 工具包介绍
 ## SFF.py 文件后缀名处理
-  - [接口文档](docs/SFF_api.md)
-  - [代码文件](code/SFF.py)
+  - [文档说明](docs/SFF_api.md)
+  - [代码文件](code/SFD.py)
 
