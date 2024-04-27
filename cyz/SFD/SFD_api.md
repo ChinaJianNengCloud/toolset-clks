@@ -1,4 +1,4 @@
-## SuperFileDeal 类
+## SuperFileDeal 类 （详细的文件操作API可参考Pathlib模块）
 
 ### 描述
 `SuperFileDeal` 类提供了基于文件后缀过滤文件列表的方法，允许根据文件扩展名包含或排除文件。
